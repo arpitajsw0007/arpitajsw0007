@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Arpit**, an aspiring **Data Scientist and Web Developer** passionate about transforming raw data into meaningful insights and building intelligent, user-friendly web applications.
+I'm **Arpita**, an aspiring **Data Scientist and Web Developer** passionate about transforming raw data into meaningful insights and building intelligent, user-friendly web applications.
 
 I enjoy working at the intersection of data, technology, and software engineering — from exploring datasets and developing predictive models to designing responsive web experiences and backend systems.
 
